@@ -3,11 +3,11 @@
 /* ══════════════════════════════════════════
    WEDDING WEBSITE — JAVASCRIPT
    Mohammed Sarjid & Thansheeha
-   Wedding: Sunday, 06 December 2026, 11:30 AM IST
+   Wedding: Sunday, 06 December 2026, 11:00 AM IST
 ══════════════════════════════════════════ */
 
 // ── Wedding date target ────────────────────
-const WEDDING_DATE = new Date('2026-12-06T11:30:00+05:30');
+const WEDDING_DATE = new Date('2026-12-06T11:00:00+05:30');
 
 // ── DOM refs ───────────────────────────────
 const splash        = document.getElementById('splash');
